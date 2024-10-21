@@ -1,5 +1,5 @@
 
-<div class="center-image">
+<div align="center">
         <img src="https://github.com/brambhattabhishek/brambhattabhishek/blob/main/54b6c068097599.5b50bca476b9b" alt="Logo">
     </div>
 
