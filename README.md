@@ -11,6 +11,8 @@
 💡 Ask me about: React, Next.js, Node.js, databases, full-stack apps.
 🎯 Fun fact: From math to full-stack dev—logic meets creativity! 🚀
 
+![Profile Views](https://komarev.com/ghpvc/?username=abhishek-brahmbhatt&color=blue)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-brahmbhatt-4a5ba2290/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@AbhishekBrambhatt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brambhattabhishek@gmail.com) 
