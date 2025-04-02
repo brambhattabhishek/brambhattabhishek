@@ -1,10 +1,15 @@
 
 <div align="center">
-        <img src="https://github.com/brambhattabhishek/brambhattabhishek/blob/main/54b6c068097599.5b50bca476b9b" alt="Logo">
+        <img src="https://raw.githubusercontent.com/brambhattabhishek/brambhattabhishek/main/github-header-image%20(2).png" alt="Logo">
     </div>
 
 # 💫 About Me:
-I'm currently working on building full-stack web applications and exploring scalable backend architectures.<br><br>I'm looking to collaborate on MERN/Next.js projects, open-source contributions, and AI-integrated web applications.<br><br>I'm looking for help with optimizing backend performance and learning advanced system design.<br><br>I'm currently learning microservices, cloud deployment (AWS/GCP), and backend optimizations.<br><br>Ask me about React, Next.js, Node.js, databases, and building real-world full-stack applications.<br><br>Fun fact: I transitioned from mathematics to full-stack development, combining logic with creativity to build web applications!
+🚀 Building: Full-stack web apps & scalable backend architectures.
+🤝 Collaborating on: MERN/Next.js, open-source, AI-integrated apps.
+🛠️ Need help with: Backend optimization & system design.
+🌍 Learning: Microservices, cloud (AWS/GCP), backend optimizations.
+💡 Ask me about: React, Next.js, Node.js, databases, full-stack apps.
+🎯 Fun fact: From math to full-stack dev—logic meets creativity! 🚀
 
 
 ## 🌐 Socials:
