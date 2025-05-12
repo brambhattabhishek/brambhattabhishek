@@ -7,7 +7,7 @@
 🚀 Building: Full-stack web apps & scalable backend architectures.
 🤝 Collaborating on: MERN/Next.js, open-source, AI-integrated apps.
 🛠️ Need help with: Backend optimization & system design.
-🌍 Learning: Microservices, cloud (AWS/GCP), backend optimizations.
+🌍 Learning: Microservices, cloud AWS, backend optimizations.
 💡 Ask me about: React, Next.js, Node.js, databases, full-stack apps.
 🎯 Fun fact: From math to full-stack dev—logic meets creativity! 🚀
 
