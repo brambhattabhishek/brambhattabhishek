@@ -4,12 +4,13 @@
     </div>
 
 # 💫 About Me:
-🚀 Building: Full-stack web apps & scalable backend architectures.
-🤝 Collaborating on: MERN/Next.js, open-source, AI-integrated apps.
-🛠️ Need help with: Backend optimization & system design.
-🌍 Learning: Microservices, cloud AWS, backend optimizations.
-💡 Ask me about: React, Next.js, Node.js, databases, full-stack apps.
-🎯 Fun fact: From math to full-stack dev—logic meets creativity! 🚀
+Building: Full-stack applications with Spring Boot (Java) on the backend and React/Next.js on the frontend.
+🔧 Working on: Scalable backend APIs, clean architecture, and high-performance systems.
+🤝 Collaborating in: Spring Boot, Microservices, REST APIs, React/Next.js, and AI-enabled web apps.
+🛠️ Need help with: Backend performance tuning, API design, and database optimization.
+🌍 Learning: Distributed systems, microservices, AWS cloud, CI/CD pipelines, and enterprise-level architecture.
+💡 Ask me about: Java, Spring Boot, Hibernate, SQL, React, Next.js, REST APIs, authentication, and full-stack app structure.
+🎯 Fun fact: A math-guy turned software developer—mixing logic, structure & creativity to build awesome products! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishek-brahmbhatt&color=blue)
 
