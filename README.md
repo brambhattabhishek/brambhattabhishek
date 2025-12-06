@@ -3,13 +3,12 @@
         <img src="https://raw.githubusercontent.com/brambhattabhishek/brambhattabhishek/main/github-header-image%20(2).png" alt="Logo">
     </div>
 
-# 💫 About Me:
-- 🚀 **Building:** Full-stack applications with **Spring Boot (Java)** on the backend and **React/Next.js** on the frontend.
-- 🔧 **Working on:** Scalable backend APIs, clean architecture, and high-performance systems.
-- 🤝 **Collaborating in:** Spring Boot, Microservices, REST APIs, React/Next.js, and AI-enabled web apps.
-- 🛠️ **Need help with:** Backend performance tuning, API design, and database optimization.
-- 🌍 **Learning:** Distributed systems, microservices, AWS cloud, CI/CD pipelines, and enterprise-level architecture.
-- 💡 **Ask me about:** Java, Spring Boot, Hibernate, SQL, React, Next.js, REST APIs, authentication, and full-stack app structure.
+## 💫 About Me
+
+I’m a backend developer passionate about building **clean, scalable, and maintainable systems** with **Java and Spring Boot**. I focus on writing code that is **reliable, readable, and production-ready**, turning complex problems into simple, elegant solutions. I enjoy designing **REST APIs, database schemas, and microservices** with performance, clarity, and scalability in mind, ensuring systems can **grow gracefully** as products evolve.
+
+I collaborate effectively with teams, keeping everything **organized, modular, and practical**, so development remains smooth and predictable. I don’t just write code — I **engineer systems that solve real problems, last long, and make the product stronger**.
+
 
 
 
