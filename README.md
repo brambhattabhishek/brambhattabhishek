@@ -7,7 +7,7 @@
 
 I’m a backend developer passionate about building **clean, scalable, and maintainable systems** with **Java and Spring Boot**. I focus on writing code that is **reliable, readable, and production-ready**, turning complex problems into simple, elegant solutions. I enjoy designing **REST APIs, database schemas, and microservices** with performance, clarity, and scalability in mind, ensuring systems can **grow gracefully** as products evolve.
 
-I collaborate effectively with teams, keeping everything **organized, modular, and practical**, so development remains smooth and predictable. I don’t just write code — I **engineer systems that solve real problems, last long, and make the product stronger**.
+I collaborate effectively with teams, keeping everything **organized, modular, and practical**, so development remains smooth and predictable. I don’t just write code. I **engineer systems that solve real problems, last long, and make the product stronger**.
 
 
 
