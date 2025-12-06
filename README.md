@@ -10,7 +10,7 @@
 - 🛠️ **Need help with:** Backend performance tuning, API design, and database optimization.
 - 🌍 **Learning:** Distributed systems, microservices, AWS cloud, CI/CD pipelines, and enterprise-level architecture.
 - 💡 **Ask me about:** Java, Spring Boot, Hibernate, SQL, React, Next.js, REST APIs, authentication, and full-stack app structure.
-- 🎯 **Fun fact:** A math-guy turned software developer—mixing logic, structure & creativity to build awesome products! 🚀
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abhishek-brahmbhatt&color=blue)
