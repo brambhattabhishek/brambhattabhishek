@@ -83,7 +83,7 @@ I collaborate effectively with teams, keeping everything **organized, modular, a
 ### 🌌 3D Contribution Journey
 
 <div align="center">
-  <img width="88%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Abhishek's 3D GitHub contribution calendar" />
+  <img width="88%" src="https://raw.githubusercontent.com/brambhattabhishek/brambhattabhishek/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Abhishek's 3D GitHub contribution calendar" />
 </div>
 
  
