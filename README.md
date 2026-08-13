@@ -65,25 +65,25 @@ I collaborate effectively with teams, keeping everything **organized, modular, a
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <div align="center">
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham56277&amp;theme=tokyonight" alt="Shubham's GitHub statistics" />
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham56277&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Shubham's productive contribution times" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brambhattabhishek&amp;theme=tokyonight" alt="Abhishek's GitHub statistics" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brambhattabhishek&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Ahishek's productive contribution times" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham56277&amp;theme=tokyonight" alt="Repositories by language" />
-  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham56277&amp;theme=tokyonight" alt="Most-used languages by commits" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brambhattabhishek&amp;theme=tokyonight" alt="Repositories by language" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brambhattabhishek&amp;theme=tokyonight" alt="Most-used languages by commits" />
 </div>
 
 <br />
 
 <div align="center">
-  <img width="52%" src="https://streak-stats.demolab.com?user=Shubham56277&amp;theme=tokyonight&amp;hide_border=true" alt="Shubham's total contributions, current streak, and longest streak" />
+  <img width="52%" src="https://streak-stats.demolab.com?user=brambhattabhishek&amp;theme=tokyonight&amp;hide_border=true" alt="Abhishek's total contributions, current streak, and longest streak" />
 </div>
 
 ### 🌌 3D Contribution Journey
 
 <div align="center">
-  <img width="88%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Shubham's 3D GitHub contribution calendar" />
+  <img width="88%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Abhishek's 3D GitHub contribution calendar" />
 </div>
 
  
