@@ -12,7 +12,7 @@ I collaborate effectively with teams, keeping everything **organized, modular, a
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishek-brahmbhatt&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=brambhattabhishek&color=blue)
 
 
 ## 🌐 Socials:
@@ -77,7 +77,7 @@ I collaborate effectively with teams, keeping everything **organized, modular, a
 <br />
 
 <div align="center">
-  <img width="52%" src="https://streak-stats.demolab.com?user=brambhattabhishek&amp;theme=tokyonight&amp;hide_border=true" alt="Abhishek's total contributions, current streak, and longest streak" />
+  <img width="52%" src="https://streak-stats.demolab.com?username=brambhattabhishek&amp;theme=tokyonight&amp;hide_border=true" alt="Abhishek's total contributions, current streak, and longest streak" />
 </div>
 
 ### 🌌 3D Contribution Journey
