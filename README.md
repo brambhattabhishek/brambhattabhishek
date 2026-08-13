@@ -64,18 +64,27 @@ I collaborate effectively with teams, keeping everything **organized, modular, a
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brambhattabhishek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)![](https://nirzak-streak-stats.vercel.app/?user=brambhattabhishek&theme=dark&hide_border=false)
+<div align="center">
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham56277&amp;theme=tokyonight" alt="Shubham's GitHub statistics" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham56277&amp;theme=tokyonight&amp;utcOffset=5.5" alt="Shubham's productive contribution times" />
+</div>
 
- 
+<div align="center">
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham56277&amp;theme=tokyonight" alt="Repositories by language" />
+  <img width="42%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham56277&amp;theme=tokyonight" alt="Most-used languages by commits" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brambhattabhishek&limit=5&theme=dark&combine_all_yearly_contributions=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=brambhattabhishek&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+<br />
 
----
-[![](https://visitcount.itsvg.in/api?id=brambhattabhishek&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img width="52%" src="https://streak-stats.demolab.com?user=Shubham56277&amp;theme=tokyonight&amp;hide_border=true" alt="Shubham's total contributions, current streak, and longest streak" />
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=brambhattabhishek&theme=dark&include_all_commits=true&count_private=true)
+### 🌌 3D Contribution Journey
+
+<div align="center">
+  <img width="88%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Shubham's 3D GitHub contribution calendar" />
+</div>
 
  
   
