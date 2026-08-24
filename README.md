@@ -12,7 +12,7 @@ I collaborate effectively with teams, keeping everything **organized, modular, a
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=brambhattabhishek&color=blue)
+[![Profile Views](https://komarev.com/ghpvc/?username=brambhattabhishek&color=blue)](https://github.com/brambhattabhishek)
 
 
 ## 🌐 Socials:
